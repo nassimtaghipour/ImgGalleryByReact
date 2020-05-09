@@ -13,7 +13,7 @@ allow including / excluding viral images from the result set;
 allow specifying window and sort parameters;
 
 when clicking an image in the gallery - show its details: big image, title, description, upvotes, downvotes;
-<img src="https://github.com/nassimtaghipour/ImgGalleryByReact/blob/master/gallery.gif" width="700" height="500">
+<img src="https://github.com/nassimtaghipour/ImgGalleryByReact/blob/master/gallery.gif" width="900" height="500">
 
 Project setup:
 
