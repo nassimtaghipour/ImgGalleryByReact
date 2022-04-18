@@ -1,6 +1,6 @@
 This project is created by React.js, Redux.js, Bootstrap4, Hooks, Css3, Html5
 
-SPA web app that allows one to browse the Imgur gallery using https://api.imgur.com/:
+SPA web app that allows to browse the Imgur gallery using https://api.imgur.com/:
  
 show gallery images in a grid of thumbnails;
 
